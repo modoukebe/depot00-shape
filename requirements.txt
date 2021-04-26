@@ -2,6 +2,7 @@ pip==21.0.1
 earthengine-api 
 voila
 geemap
+--use-feature=2020-resolver
 chardet==3.0.4
 dash==0.35.1
 dash-core-components==0.42.1
