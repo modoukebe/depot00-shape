@@ -4,13 +4,8 @@ voila
 geemap
 --use-feature=2020-resolver
 chardet==3.0.4
-dash==0.35.1
-dash-core-components==0.42.1
-dash-html-components==0.13.4
-dash-renderer==0.16.2
 decorator==4.3.0
 ediblepickle
-Flask-Compress==1.4.0
 folium==0.6.0
 geocoder
 geopandas==0.4.0
