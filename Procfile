@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --strip_sources=True --enable_nbextensions=True SODAGRI.ipynb
+web: gunicorn SODAGRI:server
