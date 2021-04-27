@@ -1,4 +1,5 @@
 --use-feature=2020-resolver
+--recursive
 pip==21.0.1
 earthengine-api==0.1.260
 bqplot==0.12.26
