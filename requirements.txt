@@ -1,12 +1,9 @@
---use-feature=2020-resolver
 pip==21.0.1
 earthengine-api==0.1.260
 bqplot==0.12.26
 geeadd==0.5.4
 descartes==1.1.0
 Fiona==1.8.19
-branca>=0.3.0
-jinja2>=2.9
 pandas 
 shapely
 pyproj 
@@ -20,7 +17,7 @@ ipyleaflet
 folium
 numpy
 geemap
-git+git://github.com/geopandas/geopandas.git
+geopandas
 idna==2.10
 requests==2.23.0
 voila==0.2.9
