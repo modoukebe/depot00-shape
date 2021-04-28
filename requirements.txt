@@ -16,7 +16,7 @@ geopy
 matplotlib>= 2.2.0
 mapclassify>= 2.2.0
 ipyleaflet
-folium
+folium==0.12.1
 numpy
 geemap
 geopandas
