@@ -1,3 +1,5 @@
+branca>=0.3.0
+jinja2>=2.9
 pip==21.0.1
 earthengine-api==0.1.260
 bqplot==0.12.26
