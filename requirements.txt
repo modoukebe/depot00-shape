@@ -1,26 +1,7 @@
-branca>=0.3.0
-jinja2>=2.9
 pip==21.0.1
-earthengine-api==0.1.260
-bqplot==0.12.26
-geeadd==0.5.4
-descartes==1.1.0
-Fiona==1.8.19
-pandas 
-shapely
-pyproj 
-rtree
-psycopg2
-GeoAlchemy2 
-geopy
-matplotlib>= 2.2.0
-mapclassify>= 2.2.0
-ipyleaflet
-folium==0.12.1
-numpy
 geemap
-geopandas
 idna==2.10
 requests==2.23.0
 voila==0.2.9
-ediblepickle
+bqplot==0.12.26
+ipyleaflet
