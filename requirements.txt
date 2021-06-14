@@ -5,3 +5,4 @@ requests==2.23.0
 voila==0.2.9
 bqplot==0.12.26
 ipyleaflet
+--use-feature=2020-resolver
